@@ -88,3 +88,15 @@ echo Dummy SSH-sleutel is succesvol ingesteld.
 ```
 
 Dit batch-script genereert een dummy SSH-sleutel en plaatst deze in de standaard SSH-map (`%USERPROFILE%\.ssh`) op Windows-systemen.
+
+## Vereisten
+Voor Linux: Bash-shell
+Voor Windows: Windows-besturingssysteem met batch-ondersteuning
+
+## Opmerkingen
+Dit script maakt een dummy SSH-sleutel aan en plaatst deze in de standaard SSH-map van het gebruikersprofiel.
+Voor productiegebruik moeten echte SSH-sleutels worden gegenereerd en correct worden beheerd.
+Wees voorzichtig bij het uitvoeren van scripts van onbekende bronnen.
+
+## Bijdragen
+Bijdragen zijn welkom! Voel je vrij om bij te dragen door problemen te melden, functieverzoeken in te dienen of pull-aanvragen te maken.
