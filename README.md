@@ -57,6 +57,7 @@ Voer het volgende uit in de terminal:
 ```bash
 ./ssh_4_windows.sh
 ```
+### Windows (Bash-script):
 
 ```batch
 @echo off
