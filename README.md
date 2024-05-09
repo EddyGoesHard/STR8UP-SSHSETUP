@@ -9,7 +9,7 @@ Dit script stelt een dummy SSH-sleutel in op zowel Linux- als Windows-systemen. 
 Voer het volgende uit in de terminal:
 
 ```bash
-./setup_ssh_key_linux.sh
+./ssh_4_linux.sh
 ```
 
 Hier zijn aangepaste versies van het script voor Linux en Windows, met dummygegevens:
