@@ -50,6 +50,14 @@ Dit script genereert een dummy SSH-sleutel en plaatst deze in de standaard SSH-m
 
 ### Windows (Batch-script):
 
+### Voor Windows:
+
+Voer het volgende uit in de terminal:
+
+```bash
+./ssh_4_windows.sh
+```
+
 ```batch
 @echo off
 
